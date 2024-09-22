@@ -26,7 +26,13 @@ Based on my current English level(approximately B2), I have designed several mod
 7. **Record yourself** reading these sentences, and upload the audio file to Google Drive.
 8. **Prompt ChatGPT**: "When should I review these words next?" Record the review date in the database.
 9. **Record the time** spent on the entire process in the database.
-   
+10. **Prompt ChatGPT**: "What kind of sentence structures and tenses I've never used before?" Paste the answer into the **database** for tomorrow's session.
+11. **Reveiw**: Read and repeat the sentences aloud at least 5 times per sentence to review.
+
+
+
+
+
 
 
 
