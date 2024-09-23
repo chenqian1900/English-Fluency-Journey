@@ -46,9 +46,9 @@ Based on my current English level (approximately B2), I have designed several mo
 
 1. **Copy and paste** today’s list from the **database** (Google Sheet).
 2. **Prompt ChatGPT**: "Explain these words or phrases as if I were a 6-year-old child."
-3. **Prompt ChatGPT**: "Teach me today’s mixed-order words, including their grammatical categories, using the list from the database."
-4. **Prompt ChatGPT**: "Tell me a story using today’s words."
-5. **Prompt ChatGPT**: "Quiz me on the words I’ve learned with multiple-choice questions."
+3. **Prompt ChatGPT**: "Teach me today’s mixed-order words or phrases, including their grammatical categories, using the list from the database."
+4. **Prompt ChatGPT**: "Tell me a story using today’s words and phrases."
+5. **Prompt ChatGPT**: "Quiz me on all these words and phrases I’ve learned with multiple-choice questions."
 6. **Record the time** spent on the entire process in the database.
 
 ---
