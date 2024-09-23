@@ -47,10 +47,12 @@ Unlike the Longman 3000 words, in which I at least know one Chinese meaning alre
 3. **Prompt ChatGPT:** "Teach me today's mixed-order words, including the grammatical category as if I'm a 6-year-old, "using the list from the database."
 4. **Prompt ChatGPT:** "Tell me a story using today's words."
 5. **Prompt ChatGPT:** "Quiz me on the words I've learned."
-6. **Record the time** "Spent on the entire process in the database."'
+6. **Record the time** "Spent on the entire process in the database."
 
+# Module 3 - Family Album USA
 
-
+### What's this?
+Family Album USA is a popular TV show among Chinese English learners because it's espically made for English learners and recommended by many teachers. 
 
 
 
