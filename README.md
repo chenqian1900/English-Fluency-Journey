@@ -54,6 +54,14 @@ Unlike the Longman 3000 words, in which I at least know one Chinese meaning alre
 ### What's this?
 Family Album USA is a popular TV show among Chinese English learners because it's espically made for English learners and recommended by many teachers. 
 
+**Goal** - I've spent about 2 months to memorize the first 13 episodes of this show, which primarily benefit to my pronunciation and intonation. I want to continue learning this material, but by spending as little time as possible.
+
+**Method** - 
+
+---
+
+### Steps:
+
 
 
 
