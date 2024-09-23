@@ -22,7 +22,7 @@ Based on my current English level(approximately B2), I have designed several mod
 3. **Prompt ChatGPT:** "Tell me a story using today's 10 words."
 4. **Prompt ChatGPT:** "Quiz me on the words I've learned. I'd like to practice making sentences with these words. I also like to practice these grammar points when writing sentences". **Send grammar points** that I need to practice to ChatGPT.
 5. **Write sentences**, get feedback from ChatGPT, and paste the corrected sentences into the **database**.
-6. **Record the sentences** spoken by ChatGPT(plan the audio on Mac, record with iPhone), then read and repeat each sentence out loud at least 10 times.
+6. **Record the sentences** spoken by ChatGPT(play the audio on Mac, record with iPhone), then read and repeat each sentence out loud at least 10 times.
 7. **Record yourself** reading these sentences, and upload the audio file to Google Drive.
 8. **Prompt ChatGPT**: "When should I review these words next?" Record the review date in the database.
 9. **Record the time** spent on the entire process in the database.
