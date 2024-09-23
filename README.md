@@ -48,7 +48,7 @@ Based on my current English level (approximately B2), I have designed several mo
 2. **Prompt ChatGPT**: "Explain these words or phrases as if I were a 6-year-old child."
 3. **Prompt ChatGPT**: "Teach me today’s mixed-order words, including their grammatical categories, using the list from the database."
 4. **Prompt ChatGPT**: "Tell me a story using today’s words."
-5. **Prompt ChatGPT**: "Quiz me on the words I’ve learned."
+5. **Prompt ChatGPT**: "Quiz me on the words I’ve learned with multiple-choice questions."
 6. **Record the time** spent on the entire process in the database.
 
 ---
@@ -87,26 +87,13 @@ Based on my current English level (approximately B2), I have designed several mo
 
 1. **Memorize Sentences**: Draw simple pictures on A4 paper to help memorize the sentences. Constantly listen and repeat after the recordings to memorize them.
 2. **Record and Submit Homework**: After memorizing all the sentences with the help of the drawings, record yourself reciting them. Upload the file to Google Drive to submit the homework.
-3. **Prepare Sentences** - Record the sentences spoken by ChatGPT (play the audio on a Mac, record with an iPhone)
-4. **Record yourself** reading these sentences, and upload the audio file to Google Drive.
+3. **Prepare Sentences for the next session** 
    - 10 sentences are from Module 1, created the day before (these sentences are usually related to myself).
    - 10 sentences are from Module 2, created the day before (these sentences are usually related to myself).
    - 10 sentences are sentences I created the day before related to various scenarios in my life or my thoughts and ideas.
-5. **Write down** all the sentences on A4 paper and record all the audio from ChatGPT. Also, record all of them in Google Sheets and upload them to Google Drive.
-6. **Record the time** needed for each step in the database.
+   - Record the sentences spoken by ChatGPT (play the audio on a Mac, record with an iPhone).
+   - Write down all the sentences on A4 paper; Record all the audio from ChatGPT; Record all the sentences in the database.
+4. **Record the time** needed for each step in the database.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 
