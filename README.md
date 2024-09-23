@@ -66,7 +66,7 @@ Based on my current English level (approximately B2), I have designed several mo
 ### Steps:
 
 1. **Listen and repeat** one episode (3 acts) that I’ve memorized previously (episodes 1 to 13).
-2. **Prompt ChatGPT**: "Quiz me about the scenarios of episode **X**. I’d like to practice making 10 sentences with these words. I also want to practice these grammar points when writing sentences." **Send grammar points** that I need to practice to ChatGPT.
+2. **Prompt ChatGPT**: "Quiz me about the scenarios of episode **X**. I’d like to practice making 10 sentences. I also want to practice these grammar points when writing sentences." **Send grammar points** and **the script of the episode** that I need to practice to ChatGPT.
 3. **Listen and repeat** one act from an episode I haven’t studied yet (episodes 14 to 26).
 4. **Write down** one act of the script that I need to study the next day (episodes 14 to 26).
 5. **Record the time** spent during the entire process in the database.
